@@ -1,4 +1,4 @@
-module github.com/mcoo/OPQBot
+module github.com/liumik233/OPQBot
 
 go 1.16
 
